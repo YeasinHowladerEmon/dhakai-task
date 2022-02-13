@@ -1,0 +1,98 @@
+.divBtn {
+    /* width: 1369px; */
+    height: 70px;
+    background-color: #fff;
+}
+
+.buttonDiv .btn-primary {
+    height: 42px;
+    font-size: 16px;
+    margin-top: 12px;
+    padding: 7px;
+    border-radius: 6px;
+    color: #2a2a2e;
+    border: 1.5px solid #ebebeb !important;
+    background-color: #fff;
+}
+
+.buttonDiv {
+    margin-left: 80px;
+}
+
+.buttonDiv .btn-primary.a {
+    color: #fff;
+    width: 115px;
+    background-color: #01896a;
+}
+
+.buttonDiv .btn-primary.b {
+
+    width: 143px;
+
+}
+
+.buttonDiv .btn-primary.c {
+
+    width: 170px;
+}
+
+.buttonDiv .btn-primary.d {
+    width: 135px;
+}
+
+.buttonDiv .btn-primary.e {
+
+    width: 140px;
+
+}
+
+.buttonDiv .btn-primary.f {
+    width: 145px;
+}
+
+.buttonDiv .btn-primary.g {
+    width: 146px;
+}
+
+.buttonDiv .btn-primary.mrr-5 {
+    width: 115px;
+}
+
+.mrrs-5 {
+    margin-left: -100px;
+}
+
+.aa {
+    margin-left: 60px;
+}
+
+.bb {
+    margin-left: -108px;
+}
+
+.cc {
+    margin-left: -92px;
+}
+
+.dd {
+    margin-left: -40px;
+}
+
+.ee {
+    margin-left: -95px;
+}
+
+.ff {
+    margin-left: -80px;
+}
+
+.gg {
+    margin-left: -125px;
+}
+
+
+.buttonDiv img {
+    position: relative;
+    bottom: -5px;
+    right: 100px;
+}

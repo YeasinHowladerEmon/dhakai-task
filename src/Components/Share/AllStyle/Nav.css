@@ -1,0 +1,109 @@
+.nav-bg-color {
+    /* width: 1600px; */
+    height: 80px;
+    padding: 13px 50px 18px 16px;
+    background-color: #01896a;
+}
+
+.btn-ex-ac {
+    width: 170px;
+    display: flex;
+    height: 40px;
+    margin: 7px 259px 2px 100.9px;
+    padding: 3px 19px 3px 3px;
+    border-radius: 20px;
+    box-shadow: 0 2px 0 0 #009d79, inset 0 2px 0 0 #006c53;
+    background-color: #00775c;
+}
+
+.btn.btn-primary {
+    border: none;
+}
+
+.btn-ex-ac .btn-primary {
+    width: 80px;
+    height: 34px;
+    margin: 0 19px 0 0;
+    padding: 7px 14px 6px 13px;
+    border-radius: 17px;
+    box-shadow: 02px 0 0 #006c53, inset 0 2px 0 0 #009d79;
+    background-color: #009372;
+}
+
+.btn-ex-ac span {
+    width: 49px;
+    height: 16px;
+    margin: 9px 0 9px 0px;
+    opacity: 0.8;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+}
+/* .f-form{
+    margin-right: 200px;
+} */
+.input-container{
+    position: relative;
+}
+.input-container img{
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    pointer-events: none;
+}
+.input-container label{
+    position: absolute;
+    top: 8px;
+    left: 43px;
+    pointer-events: none;
+    font-weight: 500;
+    font-size: 14px;
+    color: #9797a0;
+}
+
+.input-container input {
+    position: relative;
+    width: 410px;
+    height: 40px;
+    /* margin: -10px 265px 16px 259px; */
+    padding: 12px 122px 12px 15.2px;
+    border-radius: 20px;
+    background-color: #fff;
+    border: none;
+}
+
+.input-container input:focus ~ label{
+    display: none;
+}
+
+.input-container input:focus ~ img{
+    display: none;
+}
+/* .f-form img{
+    margin: 0 10.9px 0.8px 0;
+    pointer-events: none;
+}
+.form-d{
+    position: relative;
+    top: 29px;
+    text-align: left;
+    margin-left: 272px;
+    z-index: 9999;
+}
+.form-d label{
+    font-weight: 500;
+    font-size: 14px;
+    color: #9797a0;
+    pointer-events: none;
+} */
+/* .f-form input:focus ~ img,
+.f-form input:hover ~ img,
+.f-form input:valid ~ img{
+    display: none;
+    border: #00775c;
+} */
